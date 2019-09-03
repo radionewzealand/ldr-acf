@@ -1,0 +1,16 @@
+{
+  "name": "radionewzealand/ldr-acf",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/radionewzealand/ldr-acf",
+  "authors": [
+    {
+      "name": "Advanced Custom Fields",
+      "homepage": "https://www.advancedcustomfields.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
